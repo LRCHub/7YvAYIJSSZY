@@ -1,0 +1,71 @@
+# Rockwell – Somebody's Watching Me (Official Music Video)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Who's watching
+Tell me who's watching
+Who's watching me
+Rockwell:
+I'm just an average man with an average life
+I work from 9 to 5, hey hell, I pay the price
+All I want is to be left alone, in my average home
+But why do I always feel
+Like I'm in the Twilight Zone? and...
+Michael Jackson:
+I always feel like somebody's watching me
+And I have no privacy, whoa-oa-oa
+I always feel like somebody's watching me
+Tell me, is it just a dream
+Rockwell:
+When I come home at night
+I bang the door real tight
+People call me on the phone I'm trying to avoid
+Or can the people on TV see me, or am I just paranoid?
+Rockwell:
+When I'm in the shower, I'm afraid to wash my hair
+Cause I might open my eyes and find someone standing there!
+People say I'm crazy, just a little touch
+But maybe showers remind me of \Psycho\ too much
+That's why...
+Michael Jackson:
+I always feel like somebody's watching me
+And I have no privacy, whoa-oa-oa
+I always feel like somebody's watching me
+Who's playing tricks on me?
+Rockwell:
+Who's watching me
+I don't know anymore!
+Are the neighbours watching me?
+Who's watching
+Well is the mailman watching me?
+Tell me who's watching
+And I don't feel safe anymore, oh what a mess
+I wonder who's watching me now
+Who?
+The IRS?!
+Michael Jackson:
+I always feel like somebody's watching me
+And I have no privacy, whoa-oa-oa
+I always feel like somebody's watching me
+Tell me is it just a dream
+I always feel like somebody's watching me
+And I have no privacy, whoa-oa-oa
+I always feel like somebody's watching me
+Who's playing tricks on me?
+Who's watching me?
+I always feel like somebody's watching me
+Oooh, whoa-oa-oa
+I always feel like somebody's watching me
+Tell me, can it be?
+Who's watching me?
+I always feel like somebody's watching me
+Whoa-oa-oa
+I always feel like somebody's watching me
+Who's playing tricks on me?
+Who's watching me?
+I always feel like somebody's watching me
+Can I have my privacy
+I always feel like somebody's watching me
+Who's playing tricks on me?
+```
