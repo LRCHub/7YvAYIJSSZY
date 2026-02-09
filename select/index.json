@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Somebody's Watching Me (Official Music Video)",
+  "base_artist": "Rockwell",
+  "createdAt": "2026-02-09T14:23:16.930785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me (BeatFreakz Club Mix)",
+      "artist": "Beatfreakz",
+      "has_synced": false,
+      "path": "select/01_Somebody's_Watching_Me_(BeatFreakz_Club_Mix)_Beatfreakz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me (Hi_Tack Radio Edit)",
+      "artist": "Beatfreakz",
+      "has_synced": false,
+      "path": "select/02_Somebody's_Watching_Me_(Hi_Tack_Radio_Edit)_Beatfreakz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Rockwell",
+      "has_synced": true,
+      "path": "select/03_Somebody's_Watching_Me_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Chico Rose feat. 71 Digits",
+      "has_synced": true,
+      "path": "select/04_Somebody's_Watching_Me_Chico_Rose_feat._71_Digits.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Chico Rose/71 Digits",
+      "has_synced": true,
+      "path": "select/05_Somebody's_Watching_Me_Chico_Rose_71_Digits.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me (Remix) (Explicit)",
+      "artist": "Rockwell",
+      "has_synced": true,
+      "path": "select/06_Somebody's_Watching_Me_(Remix)_(Explicit)_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Rockwell",
+      "has_synced": true,
+      "path": "select/07_Somebody's_Watching_Me_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Warmen",
+      "has_synced": false,
+      "path": "select/08_Somebody's_Watching_Me_Warmen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Rockwell",
+      "has_synced": true,
+      "path": "select/09_Somebody's_Watching_Me_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Chico Rose feat. 71 Digits",
+      "has_synced": true,
+      "path": "select/10_Somebody's_Watching_Me_Chico_Rose_feat._71_Digits.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Chico Rose",
+      "has_synced": true,
+      "path": "select/11_Somebody's_Watching_Me_Chico_Rose.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me (Single Version)",
+      "artist": "Rockwell",
+      "has_synced": true,
+      "path": "select/12_Somebody's_Watching_Me_(Single_Version)_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me",
+      "artist": "Beat Freakz",
+      "has_synced": false,
+      "path": "select/13_Somebody's_Watching_Me_Beat_Freakz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somebody's Watching Me (Somebody's Watching Me)",
+      "artist": "Beatfreakz",
+      "has_synced": true,
+      "path": "select/14_Somebody's_Watching_Me_(Somebody's_Watching_Me)_Beatfreakz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somebodys Watching Me",
+      "artist": "Beatfreakz",
+      "has_synced": true,
+      "path": "select/15_Somebodys_Watching_Me_Beatfreakz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somebody's Watching Me",
+      "artist": "Rockwell",
+      "has_synced": false,
+      "path": "select/pl_01_Somebody's_Watching_Me_Rockwell.txt"
+    }
+  ]
+}
